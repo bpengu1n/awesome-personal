@@ -29,4 +29,5 @@ My personal database of favorite resources
 ## Software Development
 - [VS Code](https://code.visualstudio.com) (macOS/*nix/Win) - Great general IDE
 - [Dash](https://kapeli.com/dash) (macOS) - API and Documentation Reference for macOS
+- [Zeal](https://zealdocs.org) (*nix/Win) - API and Documentation Reference (same format as Dash)
 - [Kaleidoscope](https://kaleidoscope.app) (macOS) - Diff and merge tool, can also handle images and folders
